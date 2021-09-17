@@ -5,6 +5,7 @@
 ## Проекты / Projects
 | Название | Ссылка |
 | --- | --- |
+| ПИК Домофон <br> PIK Intercom | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-pik-intercom](https://github.com/alryaz/hass-pik-intercom) |
 | Личный кабинет МосОблГаз <br> Mosoblgaz Personal Cabinet | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-mosoblgaz](https://github.com/alryaz/hass-mosoblgaz) |
 | Личные кабинеты Энергосбыт Интер РАО <br> Inter RAO Energosbyt Personal Cabinets | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-lkcomu-interrao](https://github.com/alryaz/hass-lkcomu-interrao) <br> [<img src="https://www.python.org/static/community_logos/python-powered-h-50x65.png" width="16" alt="Python"> alryaz/inter-rao-energosbyt-python](https://github.com/alryaz/inter-rao-energosbyt-python) |
 | Личный кабинет ЭнергосбыТ Плюс <br> EnergosbyT Plus | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-energosbyt-plus](https://github.com/alryaz/hass-energosbyt-plus) |
