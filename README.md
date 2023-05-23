@@ -5,6 +5,7 @@
 ## Проекты / Projects
 | Название | Ссылка |
 | --- | --- |
+| Вентиляционные системы Turkov <br> Turkov Ventilation Systems | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-turkov](https://github.com/alryaz/hass-turkov) |
 | ПИК Домофон <br> PIK Intercom | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-pik-intercom](https://github.com/alryaz/hass-pik-intercom) |
 | Личный кабинет ПИК Комфорт <br> PIK Comfort Personal Cabinet | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-pik-comfort](https://github.com/alryaz/hass-pik-comfort) |
 | Личный кабинет МосОблГаз <br> Mosoblgaz Personal Cabinet | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-mosoblgaz](https://github.com/alryaz/hass-mosoblgaz) |
