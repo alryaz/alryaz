@@ -1,12 +1,20 @@
 ## О себе / About me
 
-> @TODO@
+Выпускник Московского Государственного Университета им. М.В. Ломоносова,
+факультет Вычислительной Математики и Кибернетики.
+
+Занимаюсь разработкой интеграций для системы управления умными
+домами Home Assistant, изучая тем самым язык Python.
+
+Открыт для вопросов коммерческого сотрудничества.
+Возможна связь посредством [Telegram](https://t.me/alryaz)
+или [электронной почты](mailto:alryaz@xavux.com).
 
 ## Проекты / Projects
 | Название | Ссылка |
 | --- | --- |
 | Вентиляционные системы Turkov <br> Turkov Ventilation Systems | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-turkov](https://github.com/alryaz/hass-turkov) |
-| ПИК Домофон <br> PIK Intercom | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-pik-intercom](https://github.com/alryaz/hass-pik-intercom) |
+| ПИК Домофон <br> PIK Intercom | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-pik-intercom](https://github.com/alryaz/hass-pik-intercom) <br> [<img src="https://www.python.org/static/community_logos/python-powered-h-50x65.png" width="16" alt="Python"> alryaz/pik-intercom-python](https://github.com/alryaz/pik-intercom-python)|
 | Личный кабинет ПИК Комфорт <br> PIK Comfort Personal Cabinet | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-pik-comfort](https://github.com/alryaz/hass-pik-comfort) |
 | Личный кабинет МосОблГаз <br> Mosoblgaz Personal Cabinet | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-mosoblgaz](https://github.com/alryaz/hass-mosoblgaz) |
 | Личные кабинеты Энергосбыт Интер РАО <br> Inter RAO Energosbyt Personal Cabinets | [<img src="https://www.home-assistant.io/images/home-assistant-logo.svg" width="16" alt="Home Assistant"> alryaz/hass-lkcomu-interrao](https://github.com/alryaz/hass-lkcomu-interrao) <br> [<img src="https://www.python.org/static/community_logos/python-powered-h-50x65.png" width="16" alt="Python"> alryaz/inter-rao-energosbyt-python](https://github.com/alryaz/inter-rao-energosbyt-python) |
